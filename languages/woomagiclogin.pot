@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woomagiclogin 0.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Copilot\n"
+
+#: templates/form-register.php:7
+msgid "Email"
+msgstr ""
+
+#: templates/form-register.php:17
+msgid "Registrati / Accedi"
+msgstr ""
+
+#: templates/form-login.php:7
+msgid "Accedi"
+msgstr ""
+
+#: includes/class-woomagiclogin-woocommerce.php:52
+msgid "Inserisci una email valida."
+msgstr ""
+
+#: includes/class-woomagiclogin-woocommerce.php:63
+msgid "Ti abbiamo inviato un link di accesso via email."
+msgstr ""
+
+#: includes/class-woomagiclogin-woocommerce.php:78
+msgid "Errore nella creazione dell’utente."
+msgstr ""
+
+#: includes/class-woomagiclogin-woocommerce.php:115
+msgid "Nessun account trovato con questa email."
+msgstr ""
+
+#: includes/class-woomagiclogin-auth.php:20
+msgid "Link di accesso non valido o scaduto."
+msgstr ""
+
+#: includes/class-woomagiclogin-email.php:20
+msgid "Accedi alla piattaforma"
+msgstr ""
