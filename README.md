@@ -1,2 +1,2 @@
 # WooMagicLogin
-Magic Login for Woocommerce
+Registrazione e accesso con magic link per WooCommerce.
