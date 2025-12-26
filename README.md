@@ -1,2 +1,2 @@
-# woomagiclogin
+# WooMagicLogin
 Magic Login for Woocommerce
