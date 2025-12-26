@@ -1,8 +1,5 @@
 # WooMagicLogin
-Registrazione e accesso con magic link per WooCommerce.
-
-Woo Magic Login è un plugin per WordPress e WooCommerce che introduce un sistema di registrazione e accesso senza password basato su **magic link**.  
-L’obiettivo è ridurre al minimo la frizione in fase di onboarding, permettendo agli utenti di accedere alla piattaforma in modo semplice, sicuro e immediato.
+**Registrazione e accesso con magic link per WooCommerce**. WooMagicLogin è un plugin per WordPress e WooCommerce che introduce un sistema di registrazione e accesso senza password basato su magic link. L’obiettivo è ridurre al minimo la frizione in fase di onboarding, permettendo agli utenti di accedere alla piattaforma in modo semplice, sicuro e immediato.
 
 Il plugin è progettato per integrarsi perfettamente con WooCommerce e con sistemi di gestione associativa come **WooAssociation**.
 
